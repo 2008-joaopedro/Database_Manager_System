@@ -1,2 +1,2 @@
-# Database_Manager_System
-Um gerencidor e organizador intuitivo de database e arquivos, voltado para o mundo empresarial.
+# Generic_Mobile_System
+Um sistema operacional para uso em placas mãe genericas com a aparencia de um celular.
